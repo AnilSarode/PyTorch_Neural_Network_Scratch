@@ -1,6 +1,6 @@
 ## Planar data classification with one hidden layer
 
-This is the git repository, which has a code file for Planner data classification using a two-layer Neural Network from scratch using Pytorch. 
+This is the git repository, which has a code file for Planner data classification using a two-layer Neural Network from scratch using PyTorch. 
 
 The data and code reference is taken from the Andrew Ng Coursera course-https://www.coursera.org/learn/neural-networks-deep-learning/home/week/3.
 
