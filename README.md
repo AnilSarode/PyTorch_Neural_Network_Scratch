@@ -16,7 +16,15 @@ The data and code reference is taken from the Andrew Ng Coursera course-https://
 
 The Neural Network model result is compared with Logistic Regression using sklearn. 
 
+sklearn:
 
 ![download](https://github.com/AnilSarode/PyTorch_Neural_Network_Scratch/assets/42278309/ab484f4a-a265-4d5e-bfa1-d3a3d5206d6b)
 
+Neural Network from scratch using PyTorch:
+
 ![download](https://github.com/AnilSarode/PyTorch_Neural_Network_Scratch/assets/42278309/0ace484d-038d-4463-8a9a-b1e76992e503)
+
+Neural Network pipeline using PyTorch Framework:
+
+![download](https://github.com/AnilSarode/PyTorch_Neural_Network_Scratch/assets/42278309/8f4ff0b3-9d25-4aff-89b5-da1ed5512be5)
+
